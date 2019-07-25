@@ -1,0 +1,12 @@
+name: Seatizen-science
+title: Seatizen-science
+username:
+account: sbck
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 504232
+bundleId: 1634641
+url: https://sbck.shinyapps.io/Seatizen-science/
+when: 1539185830.1546
+asMultiple: FALSE
+asStatic: FALSE

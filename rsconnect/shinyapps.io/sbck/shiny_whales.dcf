@@ -1,0 +1,13 @@
+name: shiny_whales
+title: shiny_whales
+username:
+account: sbck
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 885322
+bundleId: 2264930
+url: https://seatizenscience.shinyapps.io/shiny_whales/
+when: 1564080158.86518
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: CINMS Behavior 100418.csv|CINMS Photo Log 100418.csv|CINMS Sightings 100418.csv
